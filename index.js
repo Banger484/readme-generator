@@ -7,6 +7,11 @@ const generateMarkdown = require('./generateMarkdown');
 const questions = [
     {
         type: 'input',
+        name: 'name',
+        message: 'What is your full name?'
+    },
+    {
+        type: 'input',
         name: 'title',
         message: 'What is the title of your project?'
     },
@@ -39,7 +44,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Please select a license from the options below.',
-        choices: ['MIT License', 'Apache License', 'Mozilla Public License']
+        choices: ['MIT License', 'Apache License']
     },
     {
         type: 'input',

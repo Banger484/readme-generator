@@ -1,25 +1,34 @@
-# 
+# 1
   ## Table of Contents:
-  #### [Description](#description)
-  #### [Installation](#installation)
-  #### [Usage](#usage)
-  #### [Guidelines](#guidelines)
-  #### [Tests](#tests)
-  #### [License](#license)
-  #### [User Info](#user-info)
+  [Description](#description)<br>
+  [Installation](#installation)<br>
+  [Usage](#usage)<br>
+  [Guidelines](#guidelines)<br>
+  [Tests](#tests)<br>
+  [License](#license)<br>
+  [Contact](#contact)<br>
 
   # Description
-  
+  1
   # Installation
-  
+  1
   # Usage
-  
-  # Contribution Guidelines
-  
+  11
+  # Guidelines
+  1
   # Tests
-  
+  1
   # License
-  MIT License
-  # User Info
-  GitHub Username:   Email Address:   
-
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>
+  [The MIT license](https://opensource.org/licenses/MIT)
+  
+    Copyright 2022 1
+    
+    Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    
+    The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  # Contact
+  GitHub Username: [banger484](https://github.com/banger484)<br>
+  Email Address:   banger484@gmail.com
