@@ -58,14 +58,15 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   console.log(data);
   return `# ${data.title}
+  ${renderLicenseBadge(data.license)}<br>
   ## Table of Contents:
   [Description](#description)<br>
   [Installation](#installation)<br>
   [Usage](#usage)<br>
-  [Guidelines](#guidelines)<br>
+  [Contributing](#contributing)<br>
   [Tests](#tests)<br>
   [License](#license)<br>
-  [Contact](#contact)<br>
+  [Questions](#questions)<br>
 
   # Description
   ${data.description}
@@ -73,17 +74,17 @@ function generateMarkdown(data) {
   ${data.installation}
   # Usage
   ${data.usage}
-  # Guidelines
+  # Contributing
   ${data.guidelines}
   # Tests
   ${data.tests}
   # License
-  ${renderLicenseBadge(data.license)}<br>
   ${renderLicenseLink(data.license)}
   ${renderLicenseSection(data)}
-  # Contact
-  GitHub Username: [${data.gitName}](https://github.com/${data.gitName})<br>
-  Email Address:   ${data.email}
+  # Questions
+  ### GitHub Username: [${data.gitName}](https://github.com/${data.gitName})<br>
+  ### Email Address:   ${data.email}<br>
+  If you have any additional questions, you send an email to the address provided above.
 `;
 }
 

@@ -1,25 +1,25 @@
 # 1
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>
   ## Table of Contents:
   [Description](#description)<br>
   [Installation](#installation)<br>
   [Usage](#usage)<br>
-  [Guidelines](#guidelines)<br>
+  [Contributing](#contributing)<br>
   [Tests](#tests)<br>
   [License](#license)<br>
-  [Contact](#contact)<br>
+  [Questions](#questions)<br>
 
   # Description
   1
   # Installation
   1
   # Usage
-  11
-  # Guidelines
+  1
+  # Contributing
   1
   # Tests
   1
   # License
-  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<br>
   [The MIT license](https://opensource.org/licenses/MIT)
   
     Copyright 2022 1
@@ -29,6 +29,7 @@
     The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
     
     THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  # Contact
-  GitHub Username: [banger484](https://github.com/banger484)<br>
-  Email Address:   banger484@gmail.com
+  # Questions
+  ### GitHub Username: [banger484](https://github.com/banger484)<br>
+  ### Email Address:   banger484@gmail.com<br>
+  If you have any questions for me you can reach me by sending me and email to the address provided above.
