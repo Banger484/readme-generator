@@ -68,7 +68,8 @@ function generateMarkdown(data) {
   [Questions](#questions)<br>
 
   # Description
-  ${data.description}
+  ${data.description}<br>
+  Here is a video walkthrough: [Walkthrough](https://vimeo.com/699658115/b954a14c34)
   # Installation
   ${data.installation}
   # Usage

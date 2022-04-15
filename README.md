@@ -1,4 +1,4 @@
-# New Project
+# My New Project
   ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)<br>
   ## Table of Contents:
   [Description](#description)<br>
@@ -10,7 +10,8 @@
   [Questions](#questions)<br>
 
   # Description
-  Nostrud velit tempor eiusmod consequat commodo consequat sint pariatur consectetur. Voluptate adipisicing et nisi occaecat incididunt. Ea eu reprehenderit amet labore velit. Occaecat aliqua officia id minim proident.
+  Nostrud velit tempor eiusmod consequat commodo consequat sint pariatur consectetur. Voluptate adipisicing et nisi occaecat incididunt. Ea eu reprehenderit amet labore velit. Occaecat aliqua officia id minim proident.<br>
+  Here is a video walkthrough: [Walkthrough](https://vimeo.com/699658115/b954a14c34)
   # Installation
   Nostrud velit tempor eiusmod consequat commodo consequat sint pariatur consectetur. Voluptate adipisicing et nisi occaecat incididunt. Ea eu reprehenderit amet labore velit. Occaecat aliqua officia id minim proident.
   # Usage
